@@ -33,7 +33,7 @@ public class Cutting_Grass {
         int daysToGrassCutting = 0;
         final double grassGrowth = 0.8;
         while ( currentGrassLengthDouble <= maxGrassLength){
-            currentGrassLengthDouble = grassGrowth + currentGrassLengthDouble;
+            currentGrassLengthDouble += grassGrowth;
             daysToGrassCutting++;
         }
 
