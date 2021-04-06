@@ -27,7 +27,7 @@ skærmen svarende til heltallet. I det følgende eksempel er tallet 8 modtaget s
         createSquare(number, character);
     }
 
-    //Herunder er metoden. Et nested for-loop bruges til at lave en kvadrat med det indtastede antal tegn
+    //Herunder er metoden. Et nested for-loop bruges til at lave et kvadrat med det indtastede antal tegn
     //på hvert led. Det yderste for-loop tæller rækker, det inderste tæller kolonner.
     public static void createSquare(int number, char character){
         int i;
