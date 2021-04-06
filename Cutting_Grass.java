@@ -17,9 +17,9 @@ public class Cutting_Grass {
         int maxGrassLength;
         Scanner userInput = new Scanner(System.in);
 
-        System.out.println("What is your current grass length?");
+        System.out.println("What is your current grass length in cm?");
         currentGrassLength = userInput.nextInt();
-        System.out.println("What is the max length of the grass");
+        System.out.println("What is the max length of the grass in cm?");
         maxGrassLength = userInput.nextInt();
 
         double currentGrassLengthDouble = currentGrassLength;
