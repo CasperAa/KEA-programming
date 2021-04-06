@@ -40,3 +40,5 @@ public class Cutting_Grass {
         return daysToGrassCutting;
     }
 }
+
+//Det er så smukt, jeg græder!
