@@ -12,7 +12,7 @@ public class Reverse {
             string[i] = scan.nextLine();
 
         }
-        scan.close();
+        
 
         String string2;
         for (int i = 0; i < 5; i++) {
