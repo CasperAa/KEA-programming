@@ -14,7 +14,7 @@ Metoden returnerer en boolean:
     public static boolean doesArraylistContainString(ArrayList arrayList, String string){
 
         if (arrayList.contains(string.toLowerCase())) {
-            System.out.println("\"The String has been found\"");
+            System.out.println("The String has been found");
             return true;
         }
         else if (arrayList.contains(string.toLowerCase()) == false) {
