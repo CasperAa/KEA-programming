@@ -12,8 +12,6 @@ public class Reverse {
             string[i] = scan.nextLine();
 
         }
-        scan.close();
-
         String string2;
         for (int i = 0; i < 5; i++) {
             for (int j = i + 1; j < 5; j++) {
