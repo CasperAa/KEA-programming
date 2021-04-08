@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Sortering {
 
     /*
-    Sortering
+    Sortering - Amanda
     Skriv en metode, der indlæser 5 tekststrenge fra tastaturet og udskriver dem på skærmen i
     alfabetisk faldende orden på skærmen.
     Hvis der indlæses:
