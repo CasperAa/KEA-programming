@@ -20,7 +20,7 @@ public class Sortering {
      */
 
     public static void main(String[] args) {
-        int count =5;
+        int count = 5;
         String words[] = new String[count];
         Scanner sc = new Scanner(System.in);
 
@@ -53,8 +53,6 @@ public class Sortering {
         {
             System.out.println(words[i]);
         }
-        String et = "Amanda";
-        String to = "Brian";
 
     }
 
