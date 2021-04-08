@@ -36,7 +36,7 @@ skærmen svarende til heltallet. I det følgende eksempel er tallet 8 modtaget s
             for (j = 0; j < number; j++){
                 System.out.print(character + "  ");
             }
-            System.out.println("");
+
         }
     }
 }
