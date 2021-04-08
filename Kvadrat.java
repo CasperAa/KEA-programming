@@ -39,5 +39,4 @@ skærmen svarende til heltallet. I det følgende eksempel er tallet 8 modtaget s
             System.out.println("");
         }
     }
-
 }
